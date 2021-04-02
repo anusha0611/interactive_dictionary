@@ -1,6 +1,6 @@
 # interactive_dictionary
 
-Foobar is a Python Package for finding the meanings of the words
+Interactive Dictionary is a Python Package for finding the meanings of the words
 
 # How to get the repository
 
