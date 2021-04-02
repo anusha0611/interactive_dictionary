@@ -1,16 +1,16 @@
 # Interactive Dictionary
 
 Interactive Dictionary is a Python Package for finding the meanings of the words
-
-#To be executed using 
-    
-    Python 3.3 or above
     
 # How to get the repository
 
 git clone https://github.com/anusha0611/interactive_dictionary.git
 
 # Usage
+#To be executed using 
+    
+    Python 3.3 or above
+    
 ## Running Application
     
     python dictionary/app.py
